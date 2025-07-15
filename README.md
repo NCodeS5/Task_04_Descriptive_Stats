@@ -1,6 +1,6 @@
 # Task_04_Descriptive_Stats
 
-Introduction
+#Introduction
 This report summarizes the findings from our exploratory data analysis conducted on a dataset of Facebook posts. The analysis was performed using three different approaches: pure Python, pandas, and polars, to ensure consistency and validate results across tools.
 
 Data Overview
